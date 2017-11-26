@@ -1,2 +1,2 @@
 # ComputerVision
-ComputerVision implements Python
+ComputerVision implements in Python
